@@ -1,5 +1,5 @@
 <h1 align="center">hello there! 👋</h1>
-<p align="center">This account is currently being used as an archive for projects. Fancy stuff comes soon...</p>
+<p align="center">This account is currently being used as a pseudo-website for schoolwork and documentation. Fancy stuff will come soon!</p>
 
 <h3 align="center">Contact and connect here:</h3>
 <p align="center">
