@@ -1,16 +1,17 @@
-<h3>👤 About me:</h3>
-<img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" />
+## Welcome to my profile! 👋
 
+
+
+### 👤 About me: <img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" />
 
 - ⚒ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 - 🌱 Learning low-level concepts, `C`, and `Unity`.
 - ✍️ Studying to become an application software developer.
 
-<h3>👩‍💻 Stuff I use often:</h3>
-
+### 👩‍💻 Stuff I use often:
 - 💻
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 - 🌐
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
