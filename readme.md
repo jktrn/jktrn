@@ -1,9 +1,9 @@
 <h2> Hey! 👋 </h2> 
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" />
+<img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" />
 
 <h3>👤 About me:</h3>
 
-- ⚒ Creating [documentation](https://github.com/htpa-tsa/cyber) for [@htpa-tsa](https://github.com/htpa-tsa)'s cybersecurity team.
+- ⚒ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 - 🌱 Learning low-level concepts, `C`, and `Unity`.
 - ✍️ Studying to become an application software developer.
 
