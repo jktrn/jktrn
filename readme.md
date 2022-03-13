@@ -9,6 +9,10 @@
 - ✍️ Studying to become an application software developer.
 
 ### 👩‍💻 Stuff I use often:
+
+<img height="120" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
+
+
 - 💻
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -27,5 +31,3 @@
   ![Windows](https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Kali](https://img.shields.io/badge/kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
   ![Android](https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white)
-
-
