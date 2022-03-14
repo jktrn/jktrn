@@ -5,9 +5,11 @@
 - ⚒ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 - 🌱 Learning how to use `discord.js` to make an API-interacting bot!
 - ✍️ Studying to become an application software developer.
-- 🎮 Probably `osu!`
+- 🎮 Probably `osu!` 
 
-### 👩‍💻 Stuff I use often: <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
+ <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
+
+### 👩‍💻 Stuff I use often:
 - 💻
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
