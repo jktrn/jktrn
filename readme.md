@@ -5,7 +5,6 @@
 - ⚒ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 - 🌱 Learning buffer overflows and flow control redirection.
 - ✍️ Studying to become an application software developer.
-- 🎮 Probably `osu!` 
 
  <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
 
