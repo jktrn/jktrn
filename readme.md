@@ -6,9 +6,9 @@
 - 🌱 Learning more about binex/pwn challenges.
 - ✍️ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 
- <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
 
-### 👩‍💻 Stuff I use often:
+
+### 👩‍💻 Stuff I use often:  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
 - 💻
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
