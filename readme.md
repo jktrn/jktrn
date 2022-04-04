@@ -2,9 +2,9 @@
 
 ### 👤 About me: <img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&hide=stars&count_private=true&include_all_commits=true" />
 
-- ⚒ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
-- 🌱 Learning buffer overflows and flow control redirection.
-- ✍️ Studying to become an application software developer.
+- ⚒ Participating in jeopardy-style CTFs with the [whilesec](https://github.com/WhileSEC) team.
+- 🌱 Learning more about binex/pwn challenges.
+- ✍️ Creating [documentation](https://github.com/htpa-tsa/cyber) for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 
  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
 
