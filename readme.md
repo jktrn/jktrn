@@ -23,6 +23,7 @@
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
   ![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
+  
 - 🖥
   ![Windows](https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Kali](https://img.shields.io/badge/kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
