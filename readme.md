@@ -6,7 +6,7 @@
 - 🌱 Learning buffer overflows and flow control redirection.
 - ✍️ Studying to become an application software developer.
 
- <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
+ <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark"/>
 
 ### 👩‍💻 Stuff I use often:
 - 💻
