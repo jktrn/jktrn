@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, welcome to my profile</h1>
 
-<p align="center">My name's Jason, and I go by jktrn/enscribe on pretty much every account. I do a lot of things to try and feel fulfilled. I absolutely love participating in <strong><a href="https://ctftime.org/user/130832">CTF</a></strong> competitions. I also love competitive <strong><a href="https://osu.ppy.sh/u/enscribe">rhythm games</a></strong>, <b><a href="https://github.com/htpa-tsa/cyber">clean documentation</a></b>, gluttony, <b><a href="https://github.com/jktrn.github.io">web development</a></b> and modern <b><a href="https://ch.tetr.io/u/enscribe">Tetris</a></b>. <br> My entire internet presence can be found on my <strong><a href="https://linktr.ee/enscribe">Linktree</a></strong> (and soon, my <strong><a href="https://jktrn.github.io">blog</a></strong>)! Love ya, thanks for stopping by 💙
+<p align="center">My name's Jason, and I go by jktrn/enscribe on pretty much every account. I do a lot of things to try and feel fulfilled. I absolutely love participating in <strong><a href="https://ctftime.org/user/130832">CTF</a></strong> competitions. I also love competitive <strong><a href="https://osu.ppy.sh/u/enscribe">rhythm games</a></strong>, <b><a href="https://github.com/htpa-tsa/cyber">clean documentation</a></b>, gluttony, <b><a href="https://github.com/jktrn.github.io">web development</a></b> and <b><a href="https://ch.tetr.io/u/enscribe">Tetris</a></b>. <br> My entire internet presence can be found on my <strong><a href="https://linktr.ee/enscribe">Linktree</a></strong> (and soon, my <strong><a href="https://jktrn.github.io">blog</a></strong>)! Love ya, thanks for stopping by 💙
 </p>
 
 <hr>
@@ -19,4 +19,5 @@
 
 <hr>
 
-
+### 📊 My GitHub statistics
+<img src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" /> <img align="right" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark&layout=compact"/>
