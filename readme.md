@@ -20,4 +20,5 @@
 <hr>
 
 ### 📊 My GitHub statistics
-<img src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" /> <img align="right" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark&layout=compact"/>
+
+<br><img width="450" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=jason's statistics&hide=stars&count_private=true&include_all_commits=true" /> <img align="right" height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark&layout=compact"/>
