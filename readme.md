@@ -21,4 +21,4 @@
 
 ### 📊 My GitHub statistics
 
-<br><img width="425" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=Jason's Statistics&hide=stars,issues&count_private=true&include_all_commits=true&" /> <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark&layout=compact"/>
+<br><img width="440" src="https://github-readme-stats.vercel.app/api?username=jktrn&theme=github_dark&show_icons=true&custom_title=Jason's Statistics&hide=stars,issues&count_private=true&include_all_commits=true&" /> <img align="right" height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktrn&theme=github_dark&layout=compact"/>
