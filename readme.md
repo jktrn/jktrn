@@ -6,7 +6,7 @@
 <hr>
 
 ### 👤 What I'm up to
-- 🚩 Currently participating in jeopardy-style CTFs with the **[WhileSEC](https://github.com/WhileSEC)** team.
+- 🚩 Currently participating in jeopardy-style CTFs freelance. Feel free to invite me!
 - 🌱 Learning more about binex/pwn, ret2libc, and cracking shells!
 - ✍️ Creating **[documentation](https://github.com/htpa-tsa/cyber)** for **[@htpa-tsa](https://github.com/htpa-tsa)**'s cybersecurity team.
 
