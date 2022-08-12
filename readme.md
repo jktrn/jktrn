@@ -6,6 +6,6 @@
 <hr>
 
 <div align="center"> 
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=jktrn&layout=compact&langs_count=10&hide_border=1&theme=dark&bg_color=000000#gh-dark-mode-only"/>
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=jktrn&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+<img height=150 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=jktrn&layout=compact&langs_count=10&hide_border=1&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+<img height=150 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=jktrn&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&theme=dark&bg_color=000000#gh-dark-mode-only"/>
 </div>
