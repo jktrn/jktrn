@@ -1,4 +1,3 @@
-<hr>
 
 <img align="left" src="https://files.catbox.moe/jtzkxx.png" width="300" /> 
 
