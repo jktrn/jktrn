@@ -1,6 +1,6 @@
 <hr>
 
-<img align="left" src="https://files.catbox.moe/jtzkxx.png" width="340" /> 
+<img align="left" src="https://files.catbox.moe/jtzkxx.png" width="320" /> 
 
 ```yaml
 jason@jktrn
