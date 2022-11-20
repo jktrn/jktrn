@@ -11,7 +11,7 @@ cpu: AMD Ryzen 5 3600 @ 3.600GHz
 gpu: NVIDIA GeForce GTX 1650 SUPER
 ———————————
 blog: https://enscribe.dev/
-discord: enscribe#1579
+discord: enscribe#0001
 mail: jason@enscribe.dev
 ———————————
 langs: .js/ts, .py, .c(pp), .cs
