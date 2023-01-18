@@ -17,7 +17,7 @@ mail: jason@enscribe.dev
 langs: .js/ts, .py, .c(pp), .cs
 toolkit: node.js, hexo, .md, .yml, .html, .css/styl
 learning: .rs, react/tailwind, neovim, ida
-commits: 528
+commits: 825
 ```
 
 <hr>
