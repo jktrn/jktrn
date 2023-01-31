@@ -15,9 +15,9 @@ discord: enscribe#0001
 mail: jason@enscribe.dev
 ———————————
 langs: .js/ts, .py, .c(pp), .cs
-toolkit: node.js, hexo, react/tailwind, next
+toolkit: nodejs, next/react, tailwind, hexo
 learning: .rs, .go, .tex, neovim
-commits: 833
+commits: 845
 ```
 
 <hr>
