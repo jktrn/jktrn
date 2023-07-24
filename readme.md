@@ -6,12 +6,12 @@
 jason@jktrn
 ———————————
 blog: https://enscribe.dev/
-discord: twoscribe#0001
+discord: @jktrn
 mail: jason@enscribe.dev
 ———————————
+toolkit: next, tailwind, hexo, nodejs
 langs: .js/ts, .py, .c(pp), .cs
-toolkit: nodejs, nextjs 13.4, tailwindcss, hexo
-learning: .tex, sveltekit
+learning: .tex, .svelte
 commits: 1070
 ———————————
 os: Microsoft Windows 11 Pro x64 v10.0.22621
