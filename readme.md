@@ -10,9 +10,9 @@ discord: @jktrn
 mail: jason@enscribe.dev
 ———————————
 toolkits: next, tailwind, unity, hexo
-learning: svelte, latex
+learning: svelte, latex, figma
 langs: .ts/js, .py, .cs, .ejs/.styl
-commits: 1187
+commits: 1188
 ———————————
 os: Microsoft Windows 11 Pro x64 v10.0.22621
 host: Gigabyte Technology Co., Ltd. B550M DS3H
