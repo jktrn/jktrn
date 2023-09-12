@@ -1,1 +1,1 @@
-![README Banner](https://files.catbox.moe/khbofd.png)
+![README Banner](https://files.catbox.moe/evpxmf.svg)
