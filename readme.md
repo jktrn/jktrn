@@ -1,1 +1,1 @@
-![README Banner](https://files.catbox.moe/fre20u.png)
+![README Banner](banner.png)
