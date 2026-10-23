@@ -1,4 +1,4 @@
-<img src="banners/banner-12.webp" alt="README Banner" width="100%">
+<img src="https://enscribe.dev/banner" alt="README Banner" width="100%">
 
 <div align="center">
 
