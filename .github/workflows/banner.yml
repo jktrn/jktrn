@@ -1,0 +1,40 @@
+name: Banner
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: banner
+  cancel-in-progress: false
+
+jobs:
+  banner:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Point the README at this slot's banner
+        env:
+          TZ: America/Los_Angeles
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          hour=$(date +%H)
+          slot=$(printf '%02d' $(( 10#$hour / 2 * 2 )))
+          sed -i -E "s#banners/banner-[0-9]{2}\.webp#banners/banner-${slot}.webp#" README.md
+          if git diff --quiet; then
+            echo "README already shows banner-${slot}"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: banner ${slot}:00"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push

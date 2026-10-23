@@ -1,4 +1,4 @@
-![README Banner](banner.png)
+<img src="banners/banner-12.webp" alt="README Banner" width="100%">
 
 <div align="center">
 
